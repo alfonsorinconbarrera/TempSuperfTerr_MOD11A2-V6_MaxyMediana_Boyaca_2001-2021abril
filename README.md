@@ -1,0 +1,1 @@
+# TempSuperfTerr_MOD11A2-V6_MaxyMediana_Boyaca_2001-2021abril
