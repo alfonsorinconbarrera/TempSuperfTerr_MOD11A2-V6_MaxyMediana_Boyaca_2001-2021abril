@@ -10,5 +10,6 @@ Se eligió el período de composición de 8 días porque el doble de ese períod
 
 Composición y análisis:
 Alfonso rincón barrera
+
 Gestión  digital:
 Fredy alberto hernández corredor
