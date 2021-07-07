@@ -1,5 +1,9 @@
 # TempSuperfTerr_MOD11A2-V6_MaxyMediana_Boyaca_2001-2021abril
 
+<p align="center">
+  <img width="360" src="/Animacion_Gif/TempMax_Terrestre_Byca_1980-2020.gif">
+</p>
+
 Land Processes Distributed Active Archive Center (LP DAAC) de la NASA.
 
 El producto MOD11A2 V6 proporciona una temperatura de la superficie terrestre (LST) promedio de 8 días en una cuadrícula de 1200x1200. 
